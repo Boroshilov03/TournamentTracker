@@ -16,5 +16,25 @@ namespace TrackerUI
         {
             InitializeComponent();
         }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void firstNameLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cellphoneLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TournamentPlayersListBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
